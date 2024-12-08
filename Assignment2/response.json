@@ -1,0 +1,1544 @@
+{
+    "gameId": 1100,
+    "drawId": 1148218,
+    "drawTime": 1733648400000,
+    "status": "active",
+    "drawBreak": 0,
+    "visualDraw": 1148218,
+    "pricePoints": {
+        "addOn": [
+            {
+                "amount": 0.5,
+                "gameType": "KenoCloseToWin"
+            },
+            {
+                "amount": 0.5,
+                "gameType": "KinoBonus"
+            },
+            {
+                "amount": 0.5,
+                "gameType": "SideBets"
+            }
+        ],
+        "amount": 0.5
+    },
+    "prizeCategories": [
+        {
+            "id": 1,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 2,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.25,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 3,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.25,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 4,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 5,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.75,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 6,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 7,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 5.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 8,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 25.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 9,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 175.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 10,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1100.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 11,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2750.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 12,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 37500.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 13,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1000000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 14,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 15,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 16,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 17,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.25,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 18,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 19,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 20,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 21,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 22,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 52.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 23,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 275.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 24,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1750.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 25,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 15500.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 26,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 600000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 27,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 28,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.25,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 29,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.25,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 30,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 31,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 32,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 33,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 34,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 30.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 35,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 90.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 36,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 750.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 37,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12500.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 38,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 125000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 39,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 40,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 41,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 42,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 43,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 50.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 44,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 45,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 46,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 7.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 47,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 35.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 48,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 250.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 49,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 5000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 50,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 50000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 51,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 52,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 53,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 54,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 55,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 10.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 56,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 225.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 57,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 58,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 15.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 59,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 100.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 60,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1500.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 61,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 20000.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 62,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 63,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 64,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 4.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 65,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 66,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 67,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 25.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 68,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 800.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 69,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 6.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 70,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 40.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 71,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 200.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 72,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 7500.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 73,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 74,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 75,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 4.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 76,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 77,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 78,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 10.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 79,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 50.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 80,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 81,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 13.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 82,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 150.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 83,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2050.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 84,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 85,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 86,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 8.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 87,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 45.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 88,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 89,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 5.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 90,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 25.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 91,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 92,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 7500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 93,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 675.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 94,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 95,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 4.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 96,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 97,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 300.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 98,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 99,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 100,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 101,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 100.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 102,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 103,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 20000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 104,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 105,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 4.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 106,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 9.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 107,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 87.5,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 108,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 109,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 10.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 110,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 40.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 111,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 250.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 112,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 5000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 113,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 50000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 114,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 115,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 8.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 116,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 35.0,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 117,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 0.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 118,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 5.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 119,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 25.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 120,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 125.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 121,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 750.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 122,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 7500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 123,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 250000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 124,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 125,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 26.25,
+            "categoryType": 2,
+            "gameType": "KinoBonus"
+        },
+        {
+            "id": 126,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 127,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12.5,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 128,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 75.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 129,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 130,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1250.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 131,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12500.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 132,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 500000.0,
+            "categoryType": 2,
+            "gameType": "Kino"
+        },
+        {
+            "id": 133,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.0,
+            "categoryType": 2,
+            "gameType": "OddEven"
+        },
+        {
+            "id": 134,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2.0,
+            "categoryType": 2,
+            "gameType": "Draw"
+        },
+        {
+            "id": 135,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 4.0,
+            "categoryType": 2,
+            "gameType": "Column"
+        },
+        {
+            "id": 136,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 12000.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 137,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 15000.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 138,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 2600.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 139,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3600.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 140,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 500.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 141,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 650.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 142,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 140.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 143,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 265.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 144,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 40.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 145,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 75.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 146,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 10.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 147,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 20.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 148,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 3.75,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 149,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 11.5,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 150,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 1.5,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        },
+        {
+            "id": 151,
+            "divident": 0.00,
+            "winners": 0,
+            "distributed": 0.00,
+            "jackpot": 0.00,
+            "fixed": 9.0,
+            "categoryType": 2,
+            "gameType": "KenoCloseToWin"
+        }
+    ],
+    "wagerStatistics": {
+        "columns": 0,
+        "wagers": 0,
+        "addOn": [
+            
+        ]
+    }
+}
